@@ -1,0 +1,32 @@
+@media (max-width: 1000px) {
+
+
+
+
+}
+
+@media (max-width: 670px) {
+    .container-top h1{
+        text-align: center;
+        color: #0096FF;
+    }
+    .btn-wrapper {
+        text-align: center;
+    }
+    .btn {
+        text-align: center;
+        width: 400px;
+        margin-bottom: 10px;
+    
+    }
+
+    header {
+        max-width: 100%;
+    }
+
+    .lesson {
+        width: 100%;
+    }
+}
+
+
